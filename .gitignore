@@ -1,0 +1,23 @@
+# WordPress Core
+# Note: If you are tracking the whole WordPress install, customize this.
+# If you are only tracking a theme or plugin, put this repo inside wp-content/themes or wp-content/plugins.
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs/editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Node/build tools
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
